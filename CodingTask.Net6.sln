@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingTaskClient", "CodingTaskClient\CodingTaskClient.csproj", "{DC99BFD5-52EC-487F-BD2A-60905B73B724}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodingTaskServer", "CodingTaskServer\CodingTaskServer.csproj", "{32A0377E-8FD1-4D8A-AEFF-388E11EC2305}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC99BFD5-52EC-487F-BD2A-60905B73B724}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC99BFD5-52EC-487F-BD2A-60905B73B724}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC99BFD5-52EC-487F-BD2A-60905B73B724}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC99BFD5-52EC-487F-BD2A-60905B73B724}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32A0377E-8FD1-4D8A-AEFF-388E11EC2305}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32A0377E-8FD1-4D8A-AEFF-388E11EC2305}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32A0377E-8FD1-4D8A-AEFF-388E11EC2305}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32A0377E-8FD1-4D8A-AEFF-388E11EC2305}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A1E2A09-B1FD-44AD-BAEB-B281E7B4B958}
+	EndGlobalSection
+EndGlobal
